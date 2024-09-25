@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Local database
+db.sqlite3
+
+# Secrets and sensitive information
+*.env
+
+# Static files (collected during deployment)
+staticfiles/
+
+# Media files (uploaded by users)
+media/
