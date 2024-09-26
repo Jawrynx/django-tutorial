@@ -14,4 +14,4 @@ db.sqlite3
 staticfiles/
 
 # Media files (uploaded by users)
-media/
+# media/
